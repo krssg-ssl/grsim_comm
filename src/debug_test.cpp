@@ -14,7 +14,7 @@
 #include <QtNetwork>
 #include <std_msgs/Int64MultiArray.h>
 #include <stdlib.h>
-#include "/home/kgpkubs/ssl/src/ssl_common/include/ssl_common/geometry.hpp"
+#include "../../ssl_common/include/ssl_common/geometry.hpp"
 
 
 
