@@ -2,6 +2,9 @@
 ROS package to communicate with GrSim.
 This package subscribes to /grsim_data and converts it into GRSIm Protobuf format and then sends it to GrSim to be able to be visualized.
 
+master: 
+[![Build Status](https://travis-ci.org/krssg-ssl/grsim_comm.svg?branch=master)](https://travis-ci.org/krssg-ssl/grsim_comm)
+
 ======
 
 **Dependencies:** GrSim
